@@ -13,12 +13,19 @@ Features of AI implementation to Java Game
 - Use of poe.com pb-cookies like SillyTavern or Tavern AI using poe.com
 - Auto deletes conversation from poe.com to secure privacy
 - Uses 'Sage' or 'capybara' though you can use and change the models down below:
+  
   "capybara": "Sage",
+  
   "a2": "Claude-instant",
+  
   "nutria": "Dragonfly",
+  
   "a2_100k": "Claude-instant-100k",
+  
   "beaver": "GPT-4",
+  
   "chinchilla": "ChatGPT",
+  
   "a2_2": "Claude+"
 
 Recommended Models for Roleplays: 
