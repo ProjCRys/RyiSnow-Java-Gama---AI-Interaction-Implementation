@@ -20,8 +20,6 @@ Features of AI implementation to Java Game
   "beaver": "GPT-4",
   "chinchilla": "ChatGPT",
   "a2_2": "Claude+"
-  
-Notes:
 
 Recommended Models for Roleplays: 
 - Sage
