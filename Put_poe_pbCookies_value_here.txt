@@ -1,1 +1,9 @@
-
+To get pb-cookiesValue:
+Go to poe.com
+Create an account (I suggest making a dummy account just in case)
+Right click anywhere
+Click Inspect
+Go to Applications Tab (If you can't find it, try to locate: "Welcome", "Elements", "Console" and find '>>' and click on it to reveal new tabs)
+Go to 'Cookies' > https://poe.com/ > And from the right you can probably see the 'p-b'
+Get the text below the 'Value'
+Delete all this and paste the pbCookies Value here.
