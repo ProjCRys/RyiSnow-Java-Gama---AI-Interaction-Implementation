@@ -22,6 +22,7 @@ Features of AI implementation to Java Game
   "a2_2": "Claude+"
   
 Notes:
+
 Recommended Models for Roleplays: 
 - Sage
 - ChatGPT
