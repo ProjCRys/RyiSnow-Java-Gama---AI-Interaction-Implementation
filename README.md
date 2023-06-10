@@ -1,4 +1,4 @@
-# RyiSnow-Java-Gama---AI-Interaction-Implementation
+# RyiSnow-Java-Game---AI-Interaction-Implementation
 Some classes on how to implement the AI interaction using poe.com python wrapper
 
 I only included the classes and folders related for the implementation though there were some features in my game mixed in but you are free to use them which are:
