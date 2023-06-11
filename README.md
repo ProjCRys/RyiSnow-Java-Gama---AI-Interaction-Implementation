@@ -40,6 +40,7 @@ For GPT-4 and Claude-instant-100k IDK why they aren't available anymore.
 
 
 Jar Files Download links:
+
 https://www.eclipse.org/jgit/download/
 http://www.java2s.com/Code/Jar/s/Downloadslf4japi172jar.htm
 http://www.java2s.com/Code/Jar/s/Downloadslf4jsimple172jar.htm
